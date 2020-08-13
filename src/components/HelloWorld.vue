@@ -365,6 +365,7 @@
 }
 @media screen and (min-width: 800px) {
   .aboutClass {
+    max-width: 1200px;
     display: flex;
     flex-direction: row;
 }
