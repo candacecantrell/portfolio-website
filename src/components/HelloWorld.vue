@@ -24,9 +24,9 @@
       <template v-slot:extension>
         <v-tabs align-with-title class="menuItems">
           <v-tab><a href="#home">Home</a></v-tab>
-          <v-tab><a href="#about">About</a></v-tab>
+          <!-- <v-tab><a href="#about">About</a></v-tab> -->
           <v-tab><a href="#portfolio">Porfolio</a></v-tab>
-          <v-tab><a href="#contact">Contact</a></v-tab>
+          <v-tab><a href="#about">Contact</a></v-tab>
         </v-tabs>
       </template>
     </v-app-bar>
@@ -249,7 +249,7 @@
       <v-card
         class="mx-auto websiteCard"
       >
-        <v-img src="../assets/city-img.jpg"></v-img>
+        <v-img src="../assets/vinyl-img.jpg"></v-img>
 
         <v-card-text>
           <ul class="websiteText">
@@ -257,7 +257,7 @@
           <li>Website Url: https://candace-cantrell-vue.netlify.app</li>
           <li>VueJs Front End</li>
           <li>Node Server</li>
-          <li>GraphQl Server</li>
+          <li>GraphQl Server</li> 
           <p>*Cassettes for this site will not be displayed undless the Docker container for this site is running. Instructions can be found in the Readme file for the GraphQl server.</p>
           </ul>
           
