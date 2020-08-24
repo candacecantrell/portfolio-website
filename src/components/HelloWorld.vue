@@ -258,7 +258,7 @@
           <li>VueJs Front End</li>
           <li>Node Server</li>
           <li>GraphQl Server</li> 
-          <p>*Cassettes for this site will not be displayed undless the Docker container for this site is running. Instructions can be found in the Readme file for the GraphQl server.</p>
+          <p>*Cassettes for this site will not be displayed unless the Docker container for this site is running. Instructions for deployment can be found in the Readme file for the GraphQl server.</p>
           </ul>
           
         </v-card-text>
